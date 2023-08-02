@@ -12,3 +12,7 @@ https://www.tinytronics.nl/shop/en/communication-and-signals/wireless/lora/modul
 used the t-beam as a receiver. just the t-beam out of the box with the factory SPI and Lora pins.
 
 Allso used the esp32 with the LoRa module as a sender, as with the factory SPI and LoRa pins.
+
+![alt text](https://github.com/mikavdwiel/test-LoRa-transceiver/blob/main/setupImage1.jpg?raw=true)
+![alt text](https://github.com/mikavdwiel/test-LoRa-transceiver/blob/main/setupImage2.jpg?raw=true)
+![alt text](https://github.com/mikavdwiel/test-LoRa-transceiver/blob/main/setupImage3.jpg?raw=true)
